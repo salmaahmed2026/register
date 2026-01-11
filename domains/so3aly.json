@@ -1,0 +1,10 @@
+{
+  "description": "[so3aly] Question2Answer (Q2A) arabic Site",
+  "owner": {
+    "username": "salmaahmed2026",
+    "email": "ahmedali2026@atomicmail.io"
+  },
+  "records": {
+    "NS": ["kaiser.ns.cloudflare.com", "serenity.ns.cloudflare.com"]
+  }
+}
